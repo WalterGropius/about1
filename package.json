@@ -2,6 +2,11 @@
   "name": "2media-about",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://zenbau.haus/about1",
+  "presets": ["react-app"],
+  "resolutions": {
+    "@react-three/drei/@react-spring/web": "9.2.4"
+  },
   "dependencies": {
     "@react-spring/web": "9.1.1",
     "@react-three/drei": "4.1.8",

@@ -7,17 +7,17 @@ const state = {
     {
       tag: 'Umělecká agentura s komplexním portfoliem služeb',
       text: `2media`,
-      images: ['/images/2mi01.jpg', '/images/2mi02.jpg', '/images/2mi03.jpg'],
+      images: ['/about1/images/2mi01.jpg', '/about1/images/2mi02.jpg', '/about1/images/2mi03.jpg'],
     },
     {
       tag: '     Mediální  a umělecké zastoupení',
       text: `PR,TV,\nRADIO,\nAR,AI...`,
-      images: ['/images/2mi06.jpg', '/images/2mi05.jpg', '/images/2mi04.jpg'],
+      images: ['/about1/images/2mi06.jpg', '/about1/images/2mi05.jpg', '/about1/images/2mi04.jpg'],
     },
     {
       tag: 'Online',
       text: `TikTok,\n   Facebook,\nInstagram,\n      2mag...`,
-      images: ['/images/2mi07.jpg', '/images/2mi08.jpg', '/images/2mi09.jpg'],
+      images: ['/about1/images/2mi07.jpg', '/about1/images/2mi08.jpg', '/about1/images/2mi09.jpg'],
     },
   ],
   depthbox: [
@@ -26,14 +26,14 @@ const state = {
       color: '#FFFFFF',
       textColor: '#ffffff',
       text: 'Poskytujeme servis a zázemí zkušeným i začínajícím umělcům, akcím, projektům, službám, značkám i produktům. ',
-      image: '/images/2mi11.jpg',
+      image: '/about1/images/BH41NVu.jpg',
     },
     {
       depth: -5,
-      textColor: '#ffffff',
+      textColor: '#ff00ff',
       text:
         'Zaměřujeme se na kulturu, hudbu,film,divadlo, výtvarné umění, literaturu, tanec,design,lifestyle, módu,kosmetiku, gastronomii, cestování, ekologii...',
-      image: '/images/04zTfWB.jpg',
+      image: '/about1/images/04zTfWB.jpg',
     },
   ],
   lines: [
